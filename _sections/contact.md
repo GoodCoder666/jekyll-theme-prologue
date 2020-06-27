@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 联系我
 icon: fa-envelope
 order: 4
 ---
