@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: goodblog.ml
+title: GoodCoder666.github.io
 subtitle: GoodCoder666的个人博客
 description: GoodCoder666的个人博客
 author: GoodCoder666
